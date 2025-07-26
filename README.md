@@ -41,4 +41,17 @@ Tracking expenses manually can be tedious and prone to errors. This project solv
 
 ---
 
-## **Sample Usage**
+## **Sample Program Output**
+```text
+==== Smart Expense Tracker ====
+1. Add Food Expense
+2. Add Travel Expense
+3. View All Expenses
+4. View Total Expenses
+5. Get Budget Advice
+0. Exit
+
+> User adds FoodExpense: 200 Rs (Pizza)
+> User adds TravelExpense: 1500 Rs (Goa Trip)
+> Total Expenses: 1700 Rs
+> Budget Advice: Good job! Your spending is under control.
